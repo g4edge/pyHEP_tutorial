@@ -1,4 +1,10 @@
+occt-misc
 mesa-utils
 libgl-dev
+libx11-dev
+libxext-dev
+libxft-dev
+libxi-dev
+libxpm-dev
 x11vnc
 
