@@ -12,3 +12,5 @@ libxmu-dev
 libxpm-dev
 xvfb
 x11vnc
+xterm
+fvwm
