@@ -1,5 +1,6 @@
 occt-misc
 libgl1-mesa-dev
+mesa-utils
 libglx-dev
 libxt-dev
 libx11-dev
