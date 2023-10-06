@@ -1,10 +1,14 @@
 occt-misc
-mesa-utils
-libgl-dev
+libgl1-mesa-dev
+libglx-dev
+libxt-dev
 libx11-dev
 libxext-dev
 libxft-dev
 libxi-dev
 libxpm-dev
+libxi-dev
+libxmu-dev
+libxpm-dev
+xvfb
 x11vnc
-
