@@ -1,1 +1,2 @@
 libgl-dev
+x11vnc
